@@ -2375,3 +2375,9 @@ button {
 
     color: #FAFAFA;
 }
+
+/* custom code */
+
+.fs-18{
+    font-size: 18px;
+}
