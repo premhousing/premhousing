@@ -232,6 +232,10 @@ div.style-customizer select {
 
 /*Color Skins*/
 
+div.style-customizer .skin-orenge {
+    background: #ff7f00; /*9*/
+}
+
 div.style-customizer .skin-default {
     background: #95c41f; /*1*/
 }
@@ -255,9 +259,6 @@ div.style-customizer .skin-green {
 }
 div.style-customizer .skin-maroon {
     background: #800000; /*8*/
-}
-div.style-customizer .skin-orenge {
-    background: #ff7f00; /*9*/
 }
 div.style-customizer .skin-pink {
     background: #FFC0CB; /*10*/
