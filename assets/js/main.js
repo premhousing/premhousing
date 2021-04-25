@@ -50,6 +50,7 @@ Design and Developed by: http://devitems.com/
     --------------------------------------------- */
     new WOW().init();
 
+    setTimeout(function(){
     /*-------------------------------------------
         3. scrollUp jquery active
     --------------------------------------------- */
@@ -329,6 +330,8 @@ Design and Developed by: http://devitems.com/
         $('.find-home-box').addClass('hidden');
 
     });
+
+    }, 1000);
 
 
     /**********************
